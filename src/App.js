@@ -1,4 +1,4 @@
-import SimpleInput from './components/SimpleInput';
+import SimpleInput from './component/SimpleInput';
 
 function App() {
   return (
